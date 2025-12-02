@@ -1,0 +1,10 @@
+
+Hi This is my BSDM file which contains coding related to Python nad Java
+
+# Add function
+
+def add(a,b):
+	sum=a+B
+	return sum
+print(10,20)
+
