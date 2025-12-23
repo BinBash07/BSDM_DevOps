@@ -1,4 +1,4 @@
 def add(a,b):
     sum=a+b
     return sum
-print(sum(10,20))
+print(add(10,20))
